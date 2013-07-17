@@ -6,11 +6,6 @@ package com.karmanov.sakila.dao;
  *
  */
 public interface ActorDao {
-	
-	/**
-	 * 
-	 * @return
-	 */
-	public int getCount();
+
 
 }

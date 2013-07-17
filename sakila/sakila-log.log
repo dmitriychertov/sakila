@@ -1,0 +1,12 @@
+2013-07-16 12:47:42 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1930fa6f: startup date [Tue Jul 16 12:47:42 EEST 2013]; root of context hierarchy
+2013-07-16 12:47:42 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/app-context.xml]
+2013-07-16 12:47:42 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/spring-actor.xml]
+2013-07-16 12:47:42 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/spring-datasource.xml]
+2013-07-16 12:47:42 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3b195903: defining beans [actorDao,dataSource]; root of factory hierarchy
+2013-07-16 12:47:43 INFO  JdbcActorDao:16 - Total number of actors in database: 200
+2013-07-16 12:49:22 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ba43cda: startup date [Tue Jul 16 12:49:22 EEST 2013]; root of context hierarchy
+2013-07-16 12:49:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/app-context.xml]
+2013-07-16 12:49:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/spring-actor.xml]
+2013-07-16 12:49:22 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [META-INF/spring/spring-datasource.xml]
+2013-07-16 12:49:22 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3e9985a5: defining beans [actorDao,dataSource]; root of factory hierarchy
+2013-07-16 12:49:23 INFO  JdbcActorDao:16 - Total number of actors in database: 200
